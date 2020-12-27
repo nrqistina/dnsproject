@@ -1,0 +1,7 @@
+google.com resolve to 216.58.203.68
+youtube.com resolve to 172.217.27.23
+instagram.com resolve to 35.168.171.252
+gmail.com resolve to 172.217.31.101
+yahoo.com resolve to 74.6.231.21
+facebook.com resolve to 157.240.10.35
+shopee.com resolve to 103.115.78.65
